@@ -4,4 +4,4 @@
 
 | STIG ID        | Description                   | Language   | Link                                                     |
 |------------|-------------------------------|------------|----------------------------------------------------------|
-| WN10-AC-000020 | The password history must be configured to 24 passwords remembered | PowerShell | [Remediation 1](https://github.com/Joshua01X) |
+| WN10-AC-000020 | The password history must be configured to 24 passwords remembered | PowerShell | [Remediation 1](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-AC-000020.ps1) |

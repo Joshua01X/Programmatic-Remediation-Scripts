@@ -1,4 +1,13 @@
-# Programmatic Remediations Through PowerShell Scripts
+## **DISA STIG Compliance Automation with PowerShell**  
+
+### **Objective**  
+This project focuses on automating the remediation of DISA STIG compliance findings using PowerShell scripts. The goal is to streamline compliance enforcement for Windows environments by addressing specific STIG requirements, modifying registry settings, configuring security policies, and ensuring audit policies are properly applied. Each script is designed to automatically implement and verify compliance measures, reducing manual effort while ensuring systems meet strict security standards.  
+
+The repository includes:  
+- **STIG ID-based PowerShell scripts** for remediation  
+- **Verification methods** to confirm compliance post-execution  
+
+> This project is a continuous effort to enhance security hardening in enterprise environments, leveraging PowerShell for efficient compliance management.  
 
 ## Remediations Table for DISA STIGs
 

@@ -13,3 +13,4 @@
 | WN10-AU-000570 | Windows 10 must be configured to audit Detailed File Share Failures. | PowerShell | [Ref. 7](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-AU-000570.ps1) |
 | WN10-CC-000005 | Camera access from the lock screen must be disabled. | PowerShell | [Ref. 8](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-CC-000005.ps1) |
 | WN10-CC-000020 | IPv6 source routing must be configured to highest protection. | PowerShell | [Ref. 9](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-CC-000020.ps1) |
+| WN10-CC-000030 | The system must be configured to prevent Internet Control Message Protocol (ICMP) redirects from overriding Open Shortest Path First (OSPF) generated routes. | PowerShell | [Ref. 10]() |

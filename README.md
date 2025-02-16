@@ -15,3 +15,4 @@
 | WN10-CC-000020 | IPv6 source routing must be configured to highest protection. | PowerShell | [Ref. 9](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-CC-000020.ps1) |
 | WN10-CC-000030 | The system must be configured to prevent Internet Control Message Protocol (ICMP) redirects from overriding Open Shortest Path First (OSPF) generated routes. | PowerShell | [Ref. 10](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-CC-000030.ps1) |
 | WN10-CC-000238 | Windows 10 must be configured to prevent certificate error overrides in Microsoft Edge. | PowerShell | [Ref.11](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-CC-000238.ps1) |
+| WN10-SO-000005 | The built-in administrator account must be disabled. | PowerShell | [Ref. 12]() |

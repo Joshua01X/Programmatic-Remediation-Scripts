@@ -9,4 +9,4 @@
 | WN10-AU-000081 | Windows 10 must be configured to audit Object Access - File Share failures. | PowerShell | [Script 3](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-AU-000081.ps1) |
 | WN10-AU-000085 | The system must be configured to audit Object Access - Removable Storage failures. | PowerShell | [Script 4](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-AU-000085.ps1) |
 | WN10-AU-000150 | The system must be configured to audit System - Security System Extension successes. | PowerShell | [Script 5](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-AU-000150.ps1) | 
-| WN10-AU-000505 | The Security event log size must be configured to 1024000 KB or greater. | PowerShell | [Script 6]() |
+| WN10-AU-000505 | The Security event log size must be configured to 1024000 KB or greater. | PowerShell | [Script 6](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-AU-000505.ps1) |

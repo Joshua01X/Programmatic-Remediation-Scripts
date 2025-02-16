@@ -12,3 +12,4 @@
 | WN10-AU-000505 | The Security event log size must be configured to 1024000 KB or greater. | PowerShell | [Ref. 6](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-AU-000505.ps1) |
 | WN10-AU-000570 | Windows 10 must be configured to audit Detailed File Share Failures. | PowerShell | [Ref. 7](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-AU-000570.ps1) |
 | WN10-CC-000005 | Camera access from the lock screen must be disabled. | PowerShell | [Ref. 8](https://github.com/Joshua01X/Programmatic-Remediation-Scripts/blob/main/STIG%20Scripts/WN10-CC-000005.ps1) |
+| WN10-CC-000020 | IPv6 source routing must be configured to highest protection. | PowerShell | [Ref. 9]() |

@@ -1,4 +1,4 @@
-# Programmatic Vulnerability Remediations Through PowerShell and BASH
+# Programmatic Remediations Through PowerShell Scripts
 
 ## Remediations Table for DISA STIGs
 

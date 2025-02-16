@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the Security event log size must be configured to 1024000 KB or greater.
+    This PowerShell script ensures that the camera access from the lock screen must be disabled.
 
 .NOTES
     Author          : Joshua Balondo

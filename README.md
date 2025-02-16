@@ -1,5 +1,4 @@
 ## **DISA STIG Compliance Automation with PowerShell**  
-![image](https://github.com/user-attachments/assets/8a606099-d647-428a-8db6-69b0d869fcf6)
 
 ### **Objective**  
 <p align="justify">This project focuses on automating the remediation of DISA STIG compliance findings using PowerShell scripts. The goal is to streamline compliance enforcement for Windows environments by addressing specific STIG requirements, modifying registry settings, configuring security policies, and ensuring audit policies are properly applied. Each script is designed to automatically implement and verify compliance measures, reducing manual effort while ensuring systems meet strict security standards.  </p>
